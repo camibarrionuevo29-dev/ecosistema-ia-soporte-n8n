@@ -16,8 +16,8 @@ Flujo que atiende tickets de soporte de punta a punta:
 
 | Archivo | Qué es |
 |---|---|
-| `Documentacion_Tecnica_ACTUALIZADA.pdf` | Diagrama de arquitectura, estructuras de datos (Notion + JSON), matriz de costos, seguridad y resiliencia |
-| `Ecosistema IA - Soporte E-commerce (RAG + HITL) - FINAL.json` | Workflow de n8n (importar en n8n) |
+| `Documentacion tecnica - Ecosistema IA.pdf` | Diagrama de arquitectura, estructuras de datos (Notion + JSON), matriz de costos, seguridad y resiliencia |
+| `Logica del flujo - n8n.json` | Workflow de n8n (importar en n8n) |
 | `capturas/` | Evidencias (canvas, ejecuciones, Slack, Notion, Gmail) |
 
 ## Pruebas realizadas (n8n Cloud)
