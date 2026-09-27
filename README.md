@@ -40,7 +40,7 @@ Flujo que atiende tickets de soporte de punta a punta:
 
 ## Links
 
-- Dashboard de control (Notion, vista pública): _completar_
-- Base de datos en modo lectura (Notion): _completar_
+- Base de datos de tickets en modo lectura (Notion): https://verbena-curio-b46.notion.site/3d6c701984ff80d0b180c15e0bc733be?v=3d6c701984ff80038833000ca2b85579
+- Ticket de ejemplo procesado por el flujo (Notion): https://verbena-curio-b46.notion.site/3e7c701984ff8146bcaee55dd734a81d
 
 > Las credenciales/API keys no están en el repo (n8n las guarda aparte).
