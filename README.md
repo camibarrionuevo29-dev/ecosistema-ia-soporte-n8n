@@ -20,6 +20,19 @@ Flujo que atiende tickets de soporte de punta a punta:
 | `Logica del flujo - n8n.json` | Workflow de n8n (importar en n8n) |
 | `capturas/` | Evidencias (canvas, ejecuciones, Slack, Notion, Gmail) |
 
+## Evidencias
+
+1. [Flujo en n8n](capturas/01%20Flujo%20n8n.png)
+2. [Ejecución: entrada de tickets](capturas/02%20Ejecucion%20entrada%20de%20tickets.png)
+3. [Ejecución: IA con Gemini + pedido de aprobación](capturas/03%20Ejecucion%20IA%20con%20Gemini.png)
+4. [Aprobación en Slack](capturas/04%20Slack%20aprobacion.png)
+5. [Ejecución: respuesta aprobada](capturas/05%20Ejecucion%20respuesta%20aprobada.png)
+6. [Respuesta en Gmail en el mismo hilo](capturas/06%20Respuesta%20en%20Gmail%20mismo%20hilo.png)
+7. [Ticket en Notion](capturas/07%20Ticket%20en%20Notion.png)
+8. [Tabla de tickets en Notion](capturas/08%20Tabla%20de%20tickets%20Notion.png)
+
+![Flujo en n8n](capturas/01%20Flujo%20n8n.png)
+
 ## Pruebas realizadas (n8n Cloud)
 
 - Ejecución completa real: Gmail → Notion → Gemini → Slack → aprobación → respuesta en el mismo hilo (sin errores).
